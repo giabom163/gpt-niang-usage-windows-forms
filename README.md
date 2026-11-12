@@ -1,4 +1,4 @@
-# GPT 娘额度挂件 · Windows 五档立绘版
+﻿# GPT 娘额度挂件 · Windows 五档立绘版
 
 基于 [T7moris / GPT-Niang v1.3.1](https://github.com/T7moris/GPT-Niang/tree/v1.3.1) 二次开发。保留额度气泡、语录与点击交互，支持从轻度到 Ultra 的五档立绘、纯 Q、固定形象、角色宽高和独立气泡缩放。打开空白新对话拖动 Codex 原生推理强度滑杆即可换图。
 
@@ -27,6 +27,7 @@ $p = Join-Path ([IO.Path]::GetTempPath()) ('GPTNiangForms-' + [guid]::NewGuid().
 ## 来源
 
 - 原插件：[T7moris / GPT-Niang](https://github.com/T7moris/GPT-Niang)，二次开发基线为 `76859a8ba993103f9561b8388dd7c8dc94996446`。
+- 原插件的使用演示见 [B 站原插件介绍视频](https://www.bilibili.com/video/BV1Kga666EyT/)，原版下载见 [T7moris 的 Releases](https://github.com/T7moris/GPT-Niang/releases)。
 - 五档进化灵感：[白龙娘的进化历程 BV1ghx76KERV](https://www.bilibili.com/video/BV1ghx76KERV/)。
 - 交互参考：[MeteorNOX / DeepSeek-Balance-Whale-Widget](https://github.com/MeteorNOX/DeepSeek-Balance-Whale-Widget)。语录引用见 [语录许可](gpt-niang-usage/assets/quotes-LICENSE.txt)。
 - 源码附 [MIT 许可](LICENSE)。公开版附带的自制素材允许随此项目分发，替换路径见[素材清单](gpt-niang-usage/assets/forms/README.txt)。
