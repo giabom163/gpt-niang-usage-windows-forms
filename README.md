@@ -1,4 +1,4 @@
-﻿# GPT 娘额度挂件 · Windows 五档立绘版
+# GPT 娘额度挂件 · Windows 五档立绘版
 
 基于 [T7moris / GPT-Niang v1.3.1](https://github.com/T7moris/GPT-Niang/tree/v1.3.1) 二次开发。保留额度气泡、语录与点击交互，支持从轻度到 Ultra 的五档立绘、纯 Q、固定形象、角色宽高和独立气泡缩放。打开空白新对话拖动 Codex 原生推理强度滑杆即可换图。
 
